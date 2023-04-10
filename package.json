@@ -8,6 +8,7 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "cross-env": "^7.0.3",
     "framer-motion": "latest",
     "hover-effect": "^1.1.0",
     "locomotive-scroll": "^4.1.1",
