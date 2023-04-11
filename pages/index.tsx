@@ -514,9 +514,9 @@ const index: React.FC<indexProps> = ({}) => {
             </h1>
             <h2 className="section-contact__h2">
               Thanks for stopping by, I’m currently looking for a software development job and eager to join 
-              a team of great developers out here. If I believe I could be a 
+              a team of great developers out here and create products that solves problems and improves the experience of users with the web. I believe I could be a 
               good fit to any team, and so don't hesitate give me a
-              <a href="tel:+254113794219"> call, kenya &nbsp;</a>
+              <a href="tel:+254113794219"> call, Ke &nbsp;</a>
               or send me an
               <a
                 href="mailto:salvatoluice5@gmail.com"
