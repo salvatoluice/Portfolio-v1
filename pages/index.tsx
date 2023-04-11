@@ -122,7 +122,7 @@ const index: React.FC<indexProps> = ({}) => {
             name="apple-mobile-web-app-status-bar-style"
             content="#10101A"
           />
-          <title>Salvato Luis &mdash; React Frontend Developer</title>
+          <title>Salvato Luis</title>
           <meta
             name="description"
             content="I'm a bootcamp-taught Front End Developer and turning ideas into real life products is my calling."
@@ -130,7 +130,7 @@ const index: React.FC<indexProps> = ({}) => {
           <meta property="og:type" content="website" />
           <meta
             property="og:title"
-            content="Salvato Luis &mdash; Frontend web developer"
+            content="Salvato Luis"
           />
           <meta property="og:url" content="https://luis.vercel.app/" />
           {/* <meta property="og:image" content="webp/preview-image.png" /> */}
@@ -275,7 +275,7 @@ const index: React.FC<indexProps> = ({}) => {
               <span>Well, I work smart always, paying attention to detail </span>
             </h1>
             <p className="paragraph">
-              Proud of the projects I've achied so far. It's a great milestone!
+              Proud of the projects I've achieved so far. It's a great milestone!
             </p>
 
             <div className="project-card">
@@ -514,7 +514,7 @@ const index: React.FC<indexProps> = ({}) => {
             </h1>
             <h2 className="section-contact__h2">
               Thanks for stopping by, I’m currently looking for a software development job and eager to join 
-              a tema of great developers out here. If I believe I could be a 
+              a team of great developers out here. If I believe I could be a 
               good fit to any team, and so don't hesitate give me a
               <a href="tel:+254113794219"> call, kenya &nbsp;</a>
               or send me an
@@ -566,7 +566,7 @@ const index: React.FC<indexProps> = ({}) => {
           </section>
         </main>
         <footer className="footer">
-          <p className="paragraph">Salvato Luis. All Rights Reserved.</p>
+          <p className="paragraph">&copy;Salvato Luis. All Rights Reserved.</p>
           <div className="footer__socials">
             <a
               href="https://github.com/salvatoluice"
