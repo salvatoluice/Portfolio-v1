@@ -1,3 +1,3 @@
-# Adeola Adeoti
+# Portfolio V1
 
-Second version of my portfolio
+First version of my portfolio website, nextjs, typescipt and scss
