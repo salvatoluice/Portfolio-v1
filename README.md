@@ -1,7 +1,7 @@
 # Portfolio V1
 
-## Salvato Luiz
+## Salvato Luis
 
-https://salvatoluiz.netlify.app/
+Link: https://salvatoluiz.netlify.app/
 
 First version of my portfolio website, nextjs, typescipt and scss
