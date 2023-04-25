@@ -4,4 +4,6 @@
 
 * Link: https://salvatoluiz.netlify.app/
 
+### Built with:
+
 First version of my portfolio website, nextjs, typescipt and scss
