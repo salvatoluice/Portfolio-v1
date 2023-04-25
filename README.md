@@ -13,3 +13,5 @@
 * SCSS
 
 First version of my portfolio website
+
+### Getting started:
