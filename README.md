@@ -19,3 +19,5 @@ First version of my portfolio website
 * Clone this repo into your local machine
 
 * CD into cloned repo
+
+* Run `npm install`
