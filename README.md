@@ -10,4 +10,6 @@
 
 * Typescript
 
+* SCSS
+
 First version of my portfolio website, nextjs, typescipt and scss
