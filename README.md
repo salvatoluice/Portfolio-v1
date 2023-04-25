@@ -12,4 +12,4 @@
 
 * SCSS
 
-First version of my portfolio website, nextjs, typescipt and scss
+First version of my portfolio website
