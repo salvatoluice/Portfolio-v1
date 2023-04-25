@@ -6,4 +6,6 @@
 
 ### Built with:
 
+* Next js
+
 First version of my portfolio website, nextjs, typescipt and scss
