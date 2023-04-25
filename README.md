@@ -1,6 +1,6 @@
 # Portfolio V1
 
-## Salvato Luis
+## Author *Salvato Luis*
 
 * Link: https://salvatoluiz.netlify.app/
 
