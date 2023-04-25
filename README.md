@@ -8,4 +8,6 @@
 
 * Next js
 
+* Typescript
+
 First version of my portfolio website, nextjs, typescipt and scss
