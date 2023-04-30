@@ -14,7 +14,7 @@
 
 First version of my portfolio website
 
-### Getting started:
+### Getting started
 
 * Clone this repo into your local machine
 
