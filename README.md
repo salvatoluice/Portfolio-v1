@@ -2,7 +2,7 @@
 
 ## Author *Salvato Luis*
 
-* Link: https://salvatoluiz.netlify.app
+* Live Link: https://salvatoluiz.netlify.app
 
 ### Built with
 
