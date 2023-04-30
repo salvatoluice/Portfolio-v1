@@ -20,4 +20,6 @@ First version of my portfolio website
 
 * CD into cloned repo
 
-* Run `npm install`
+* Run `npm install` to install all the dependancies
+
+* Run `npm run dev` to start the development server
