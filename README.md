@@ -26,3 +26,4 @@ First version of my portfolio website
 
 * Open `https://localhost:3000` to view live site
 
+### Dependancies
