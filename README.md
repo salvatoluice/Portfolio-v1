@@ -43,3 +43,5 @@ First version of my portfolio website
  * swr
  
  ### License
+
+`MIT`
