@@ -23,3 +23,6 @@ First version of my portfolio website
 * Run `npm install` to install all the dependancies
 
 * Run `npm run dev` to start the development server
+
+* Open `https://localhost:3000` to view live site
+
