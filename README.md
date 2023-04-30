@@ -36,6 +36,8 @@ First version of my portfolio website
 
 * locomotive-scroll
 
+* next, react, react-dom
+
 * react-ga
 
 * sass
