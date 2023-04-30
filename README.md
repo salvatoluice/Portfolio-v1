@@ -41,3 +41,5 @@ First version of my portfolio website
 * sass
 
  * swr
+ 
+ ### License
