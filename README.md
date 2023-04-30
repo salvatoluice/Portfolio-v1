@@ -4,7 +4,7 @@
 
 * Link: https://salvatoluiz.netlify.app/
 
-### Built with:
+### Built with
 
 * Next js
 
