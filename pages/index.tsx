@@ -115,14 +115,14 @@ const index: React.FC<indexProps> = ({}) => {
     <>
       <div id="menu-target" data-scroll-container ref={refScroll}>
         <Head>
-          <link rel="icon" href="svg/favicon.svg" />
+          <link rel="icon" href="svg/favicon.ico" />
           <link href="" rel="canonical" />
           <meta name="theme-color" content="#10101A" />
           <meta
             name="apple-mobile-web-app-status-bar-style"
             content="#10101A"
           />
-          <title>Salvato Luis</title>
+          <title>Salvato</title>
           <meta
             name="description"
             content="I'm a bootcamp-taught Front End Developer and turning ideas into real life products is my calling."
@@ -132,7 +132,7 @@ const index: React.FC<indexProps> = ({}) => {
             property="og:title"
             content="Salvato Luis"
           />
-          <meta property="og:url" content="https://luis.vercel.app/" />
+          <meta property="og:url" content="https://salvatoluiz.netlify.app/" />
           {/* <meta property="og:image" content="webp/preview-image.png" /> */}
           <meta
             property="og:description"
@@ -281,6 +281,50 @@ const index: React.FC<indexProps> = ({}) => {
             <div className="project-card">
               <div className="project-card__left">
                 <h4 className="heading-4">
+                  React JS, Node.js, CSS3, ExpressJS & MongoDB
+                </h4>
+              </div>
+              <div
+                className="project-card__middle"
+                data-displacement="webp/myDistorsionImage.webp"
+              >
+                <img src="https://images.unsplash.com/photo-1491933382434-500287f9b54b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFwcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Image address" />
+                <img src="https://images.unsplash.com/photo-1531554694128-c4c6665f59c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGFwcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Alt Logo" />
+              </div>
+              <div className="project-card__right">
+                <h2
+                  data-scroll
+                  data-scroll-offset="35%"
+                  data-scroll-repeat={true}
+                  data-scroll-class="alexxandria-anim"
+                  className="heading-2"
+                >
+                  applehub
+                  <br />
+                </h2>
+                <a
+                  rel="noopener"
+                  target="_blank"
+                  href="https://applehub.vercel.app/"
+                  className="project-card__link"
+                >
+                  See Live Link
+                </a>
+                <div className="project-card__socials">
+                  <a
+                    rel="noopener"
+                    target="_blank"
+                    href="https://github.com/salvatoluice/LuiShop"
+                  >
+                    <img src="svg/github.svg" alt="github icon" />
+                  </a>
+                </div>
+              </div>
+            </div>
+
+            <div className="project-card">
+              <div className="project-card__left">
+                <h4 className="heading-4">
                   React JS, Node.js, ExpressJS & MongoDB
                 </h4>
               </div>
@@ -305,7 +349,7 @@ const index: React.FC<indexProps> = ({}) => {
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://ascent.vercel.app/"
+                  href="https://github.com/salvatoluice/ascent"
                   className="project-card__link"
                 >
                   Live Site coming soon!
