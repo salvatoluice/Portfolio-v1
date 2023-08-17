@@ -557,19 +557,7 @@ const index: React.FC<indexProps> = ({}) => {
               <span>Hired Yet? </span>
             </h1>
             <h2 className="section-contact__h2">
-              Thanks for stopping by, I’m currently looking for a software development job and eager to join 
-              a team of great developers out here and create products that solves problems and improves the experience of users with the web. I believe I could be a 
-              good fit to any team, and so don't hesitate give me a
-              <a href="tel:+254113794219"> call, Ke &nbsp;</a>
-              or send me an
-              <a
-                href="mailto:salvatoluice5@gmail.com"
-                rel="noopener"
-                target="_blank"
-              >
-                &nbsp; email
-              </a>
-              .
+              Thanks for stopping by. While I'm not actively seeking an open job opportunity at the moment, I'm always open to discussing projects and exploring ways we can collaborate to bring your ideas to success. My passion lies in software development, and I'm eager to work with teams of talented developers to create innovative solutions that solve problems and enhance user experiences on the web. If you have a project in mind or simply want to connect, feel free to give me a <a href="tel:+254113794219">call</a> or send me an <a href="mailto:salvatoluice5@gmail.com" rel="noopener" target="_blank">email</a>. Let's chat and see how we can work together!
             </h2>
           </section>
           <section className="section-socials">
