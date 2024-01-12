@@ -341,7 +341,7 @@ const index: React.FC<indexProps> = ({}) => {
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://disoun3.com/"
+                  href="https://discoun3.com/"
                   className="project-card__link"
                 >
                   Link
