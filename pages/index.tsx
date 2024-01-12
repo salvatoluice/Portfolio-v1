@@ -125,7 +125,7 @@ const index: React.FC<indexProps> = ({}) => {
           <title>Salvato</title>
           <meta
             name="description"
-            content="I'm a bootcamp-taught Front End Developer and turning ideas into real life products is my calling."
+            content="I'm a certified software developer, turning ideas into real life products is what I like to do."
           />
           <meta property="og:type" content="website" />
           <meta
@@ -136,7 +136,7 @@ const index: React.FC<indexProps> = ({}) => {
           {/* <meta property="og:image" content="webp/preview-image.png" /> */}
           <meta
             property="og:description"
-            content="I'm a bootcamp-taught Front End Developer and turning ideas into real life products is my calling."
+            content="I'm a certified software developer, turning ideas into real life products is what I like to do."
           />
           <meta
             name="twitter:title"
@@ -144,7 +144,7 @@ const index: React.FC<indexProps> = ({}) => {
           />
           <meta
             name="twitter:description"
-            content="I'm a bootcamp-taught Front End Developer and turning ideas into real life products is my calling."
+            content="I'm a certified software developer, turning ideas into real life products is what I like to do."
           />
           <meta name="twitter:image" content="webp/preview-image.png" />
           <meta name="twitter:card" content="summary_large_image" />
@@ -162,13 +162,13 @@ const index: React.FC<indexProps> = ({}) => {
           <header className="header">
             <div className="header__hero">
               <div className="header__hero--heading">
-                <span>Crafting ideas to </span> <br />
-                <span>real life </span>
+                <span>Transforming concepts into </span> <br />
+                <span>living, breathing </span>
                 <span className="header__hero--heading-gradient">
-                  functional products{" "}
+                  digital masterpieces{" "}
                 </span>
                 <br />
-                <span>is what I love to do.</span>
+                <span>is my passion and expertise.</span>
               </div>
               <a
                 data-scroll-to
@@ -253,31 +253,23 @@ const index: React.FC<indexProps> = ({}) => {
               >
                Linkedin
               </a>
-              <a
-                href="https://www.instagram.com/salvato_luiz"
-                rel="noopener"
-                target="_blank"
-              >
-                {" "}
-                Instagram
-              </a>
             </div>
           </div>
         </div>
         <main className="container">
           <p className="about-text">
-            Hello! My name is Salvato and I am a frontend web developer,
-            passionate <br /> about building products that help peoples' experience
-            with the web better everyday.
+            Hey there! I'm Salvato, a tech enthusiast and full-stack web architect. <br />
+            I thrive on creating seamless digital experiences, from <span className="about-text-accent">front-end magic</span> that captivates users,
+            to robust <span className="about-text-accent">back-end solutions</span> that power the web's heartbeat. <br />
+            Let's turn your ideas into a<span className="about-text-accent"> complete web symphony</span>!
           </p>
           <section id="sectionProjects" className="section-projects">
             <h1 className="heading-1">
-              <span>Well, I work smart always, paying attention to detail </span>
-            </h1>
-            <p className="paragraph">
-              Proud of the projects I've achieved so far. It's a great milestone!
-            </p>
-
+                <span>Elevating every project with smart solutions and meticulous attention to detail </span>
+              </h1>
+              <p className="paragraph">
+                Embarking on a journey of accomplishments, each project is a proud milestone in my pursuit of excellence!
+              </p>
             <div className="project-card">
               <div className="project-card__left">
                 <h4 className="heading-4">
@@ -299,22 +291,22 @@ const index: React.FC<indexProps> = ({}) => {
                   data-scroll-class="alexxandria-anim"
                   className="heading-2"
                 >
-                  applehub
+                  Naswasoko
                   <br />
                 </h2>
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://applehub.vercel.app/"
+                  href="https://naswasoko.co.ke"
                   className="project-card__link"
                 >
-                  See Live Link
+                  Link
                 </a>
                 <div className="project-card__socials">
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/salvatoluice/LuiShop"
+                    href="https://github.com/salvatoluice/"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -343,22 +335,22 @@ const index: React.FC<indexProps> = ({}) => {
                   data-scroll-class="alexxandria-anim"
                   className="heading-2"
                 >
-                  ascent
+                  Discoun3
                   <br />
                 </h2>
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://github.com/salvatoluice/ascent"
+                  href="https://disoun3.com/"
                   className="project-card__link"
                 >
-                  Live Site coming soon!
+                  Link
                 </a>
                 <div className="project-card__socials">
                   <a
                     rel="noopener"
                     target="_blank"
-                    href="https://github.com/salvatoluice/ascent"
+                    href="https://github.com/salvatoluice/"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -385,112 +377,21 @@ const index: React.FC<indexProps> = ({}) => {
                   data-scroll-class="safarika-anim"
                   className="heading-2"
                 >
-                  Nairobi
-                  <br />carz
+                  Freshcuts
                 </h2>
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://nairobi-carz.vercel.app/"
+                  href="https://freshcutsfoundation.org/"
                   className="project-card__link"
                 >
-                  See Live Link
+                  Link
                 </a>
                 <div className="project-card__socials">
                   <a
                     rel="noopener"
                     target="_blank"
                     href="https://github.com/salvatoluice/Nairobi-Carz/"
-                  >
-                    <img src="svg/github.svg" alt="github icon" />
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="project-card">
-              <div className="project-card__left">
-                <h4 className="heading-4">
-                  React js, RTK Query, Redux Toolkit, SCSS
-                </h4>
-              </div>
-              <div
-                className="project-card__middle"
-                data-displacement="webp/myDistorsionImage.webp"
-              >
-                <img src="https://images.unsplash.com/photo-1613442301239-ea2478101ea7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGZvcmV4fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="snapcoins" />
-                <img src="https://images.unsplash.com/photo-1579225663317-c0251b4369bc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fGZvcmV4fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="snapcoins logo" />
-              </div>
-              <div className="project-card__right">
-                <h2
-                  data-scroll
-                  data-scroll-offset="35%"
-                  data-scroll-repeat={true}
-                  data-scroll-class="heatrow-anim"
-                  className="heading-2"
-                >
-                  Snapcoins
-                </h2>
-                <a
-                  href="https://snapcoins.vercel.app/"
-                  rel="noopener"
-                  target="_blank"
-                  className="project-card__link"
-                >
-                  See Live Link
-                </a>
-                <div className="project-card__socials">
-                  <a
-                    rel="noopener"
-                    target="_blank"
-                    href="https://github.com/salvatoluice/snapcoins"
-                  >
-                    <img src="svg/github.svg" alt="github icon" />
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="project-card">
-              <div className="project-card__left">
-                <h4 className="heading-4">React Js, Chart.js, Material UI</h4>
-              </div>
-              <div
-                className="project-card__middle"
-                data-displacement="webp/myDistorsionImage.webp"
-              >
-                <img src="https://images.unsplash.com/photo-1632406896547-96b1253a2ed4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTR8fGFkbWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="admin" />
-                <img src="https://images.unsplash.com/photo-1519332978332-21b7d621d05e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGFkbWlufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="admin logo" />
-              </div>
-              <div className="project-card__right">
-                <h2
-                  data-scroll
-                  data-scroll-offset="35%"
-                  data-scroll-repeat={true}
-                  data-scroll-class="adeola-anim"
-                  className="heading-2"
-                >
-                  React
-                  <br /> Admin Dashboard
-                </h2>
-                <a
-                  rel="noopener"
-                  target="_blank"
-                  href="https://oceans-overflow.netlify.app/"
-                  className="project-card__link"
-                >
-                  See Live Link
-                </a>
-                <div className="project-card__socials">
-                  <a
-                    style={{
-                      display: 'flex',
-                      textDecoration: 'none',
-                      gap :'20px'
-                    }}
-                    rel="noopener"
-                    target="_blank"
-                    href="https://github.com/salvatoluice/React-Admin-Dashboard"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -507,10 +408,10 @@ const index: React.FC<indexProps> = ({}) => {
           >
             <div className="section-reviews__top">
               <h1 className="heading-1">
-                <span>Well, what if we see what people say about me huh? </span>
+                <span>Curious to discover the buzz about me?</span>
               </h1>
               <p className="paragraph paragraph__sub">
-                What people say about me and what I love to do.
+                Dive into what others are saying about my passion and expertise.
               </p>
             </div>
             <div className="section-reviews__bottom">
@@ -557,7 +458,7 @@ const index: React.FC<indexProps> = ({}) => {
               <span>Hired Yet? </span>
             </h1>
             <h2 className="section-contact__h2">
-              Thanks for stopping by. While I'm not actively seeking an open job opportunity at the moment, I'm always open to discussing projects and exploring ways we can collaborate to bring your ideas to success. My passion lies in software development, and I'm eager to work with teams of talented developers to create innovative solutions that solve problems and enhance user experiences on the web. If you have a project in mind or simply want to connect, feel free to give me a <a href="tel:+254113794219">call</a> or send me an <a href="mailto:salvatoluice5@gmail.com" rel="noopener" target="_blank">email</a>. Let's chat and see how we can work together!
+              Thanks for dropping by! While I'm not actively on the job market, I'm always excited to explore new projects and discuss potential collaborations that can turn your ideas into digital success stories. With a fervor for software development, I'm eager to join forces with skilled teams to craft innovative solutions that tackle challenges and elevate user experiences on the web. Whether you have a specific project in mind or just want to connect, don't hesitate to give me a <a href="tel:+254113794219">call</a> or shoot me an <a href="mailto:salvatoluice5@gmail.com" rel="noopener" target="_blank">email</a>. Let's have a chat and discover the possibilities of working together!
             </h2>
           </section>
           <section className="section-socials">
@@ -587,18 +488,11 @@ const index: React.FC<indexProps> = ({}) => {
               >
                 LinkedIn
               </a>
-              <a
-                href="https://www.instagram.com/salvato_luiz"
-                rel="noopener"
-                target="_blank"
-              >
-                Instagram
-              </a>
             </div>
           </section>
         </main>
         <footer className="footer">
-          <p className="paragraph">&copy;Salvato Luis. All Rights Reserved.</p>
+          <p className="paragraph">&copy;2024 Salvato Luis. All Rights Reserved.</p>
           <div className="footer__socials">
             <a
               href="https://github.com/salvatoluice"
