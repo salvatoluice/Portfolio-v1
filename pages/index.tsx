@@ -341,7 +341,7 @@ const index: React.FC<indexProps> = ({}) => {
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://discoun3.com/"
+                  href="https://discoun3.vercel.app/"
                   className="project-card__link"
                 >
                   Link
@@ -351,47 +351,6 @@ const index: React.FC<indexProps> = ({}) => {
                     rel="noopener"
                     target="_blank"
                     href="https://github.com/salvatoluice/"
-                  >
-                    <img src="svg/github.svg" alt="github icon" />
-                  </a>
-                </div>
-              </div>
-            </div>
-
-            <div className="project-card">
-              <div className="project-card__left">
-                <h4 className="heading-4">React Js, Firebase, Redux, CSS3</h4>
-              </div>
-              <div
-                className="project-card__middle"
-                data-displacement="webp/myDistorsionImage.webp"
-              >
-                <img src="https://images.unsplash.com/photo-1592637290945-0f550f0d6b9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNhciUyMHJlbnRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="nairobi" />
-                <img src="https://images.unsplash.com/photo-1608790039230-6121188d1280?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhciUyMHJlbnRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="nairobi logo" />
-              </div>
-              <div className="project-card__right">
-                <h2
-                  data-scroll
-                  data-scroll-offset="35%"
-                  data-scroll-repeat={true}
-                  data-scroll-class="safarika-anim"
-                  className="heading-2"
-                >
-                  Freshcuts
-                </h2>
-                <a
-                  rel="noopener"
-                  target="_blank"
-                  href="https://freshcutsfoundation.org/"
-                  className="project-card__link"
-                >
-                  Link
-                </a>
-                <div className="project-card__socials">
-                  <a
-                    rel="noopener"
-                    target="_blank"
-                    href="https://github.com/salvatoluice/Nairobi-Carz/"
                   >
                     <img src="svg/github.svg" alt="github icon" />
                   </a>
@@ -458,7 +417,7 @@ const index: React.FC<indexProps> = ({}) => {
               <span>Hired Yet? </span>
             </h1>
             <h2 className="section-contact__h2">
-              Thanks for dropping by! While I'm not actively on the job market, I'm always excited to explore new projects and discuss potential collaborations that can turn your ideas into digital success stories. With a fervor for software development, I'm eager to join forces with skilled teams to craft innovative solutions that tackle challenges and elevate user experiences on the web. Whether you have a specific project in mind or just want to connect, don't hesitate to give me a <a href="tel:+254113794219">call</a> or shoot me an <a href="mailto:salvatoluice5@gmail.com" rel="noopener" target="_blank">email</a>. Let's have a chat and discover the possibilities of working together!
+              Thanks for dropping by! I'm always excited to explore new projects and discuss potential collaborations that can turn your ideas into digital success stories. With a fervor for software development, I'm eager to join forces with skilled teams to craft innovative solutions that tackle challenges and elevate user experiences on the web. Whether you have a specific project in mind or just want to connect, don't hesitate to give me a <a href="tel:+254113794219">call</a> or shoot me an <a href="mailto:salvatoluice5@gmail.com" rel="noopener" target="_blank">email</a>. Let's have a chat and discover the possibilities of working together!
             </h2>
           </section>
           <section className="section-socials">
