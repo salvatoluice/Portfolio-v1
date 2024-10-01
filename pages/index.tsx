@@ -270,49 +270,6 @@ const index: React.FC<indexProps> = ({}) => {
               <p className="paragraph">
                 Embarking on a journey of accomplishments, each project is a proud milestone in my pursuit of excellence!
               </p>
-            <div className="project-card">
-              <div className="project-card__left">
-                <h4 className="heading-4">
-                  React JS, Node.js, CSS3, ExpressJS & MongoDB
-                </h4>
-              </div>
-              <div
-                className="project-card__middle"
-                data-displacement="webp/myDistorsionImage.webp"
-              >
-                <img src="https://images.unsplash.com/photo-1491933382434-500287f9b54b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGFwcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Image address" />
-                <img src="https://images.unsplash.com/photo-1531554694128-c4c6665f59c2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGFwcGxlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="Alt Logo" />
-              </div>
-              <div className="project-card__right">
-                <h2
-                  data-scroll
-                  data-scroll-offset="35%"
-                  data-scroll-repeat={true}
-                  data-scroll-class="alexxandria-anim"
-                  className="heading-2"
-                >
-                  Naswasoko
-                  <br />
-                </h2>
-                <a
-                  rel="noopener"
-                  target="_blank"
-                  href="https://naswasoko.co.ke"
-                  className="project-card__link"
-                >
-                  Link
-                </a>
-                <div className="project-card__socials">
-                  <a
-                    rel="noopener"
-                    target="_blank"
-                    href="https://github.com/salvatoluice/"
-                  >
-                    <img src="svg/github.svg" alt="github icon" />
-                  </a>
-                </div>
-              </div>
-            </div>
 
             <div className="project-card">
               <div className="project-card__left">
@@ -341,7 +298,7 @@ const index: React.FC<indexProps> = ({}) => {
                 <a
                   rel="noopener"
                   target="_blank"
-                  href="https://discoun3.vercel.app/"
+                  href="https://discoun3ree.com/"
                   className="project-card__link"
                 >
                   Link
