@@ -125,7 +125,7 @@ const index: React.FC<indexProps> = ({}) => {
           <title>Salvato</title>
           <meta
             name="description"
-            content="I'm a certified software developer, turning ideas into real life products is what I like to do."
+            content="I'm a software developer, turning ideas into real life products is what I like to do."
           />
           <meta property="og:type" content="website" />
           <meta
@@ -148,7 +148,7 @@ const index: React.FC<indexProps> = ({}) => {
           />
           <meta name="twitter:image" content="webp/preview-image.png" />
           <meta name="twitter:card" content="summary_large_image" />
-          <meta name="twitter:url" content="https://adeolaadeoti.xyz/" />
+          <meta name="twitter:url" content="https://salvatoluiz.netlify.app/" />
         </Head>
         <audio loop id="audioPlayer" autoPlay style={{ display: "none" }}>
           <source src="sound/preloader.mp3" type="audio/mp3" />
