@@ -102,39 +102,6 @@ export const MobileNavigation = ({ variants, isOpen }: any) => (
       >
         <h4 className="navigation-h4">Featured Projects</h4>
         <div className="navigation-bottom__projects">
-          <a
-            target="_blank"
-            rel="noopener"
-            href="https://ascent.vercel.app/"
-            className="navigation-bottom__projects-card"
-          >
-            <img src="https://images.unsplash.com/photo-1585503418537-88331351ad99?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2FyJTIwcmVudGFsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="ascent" />
-            <h2>
-              ascent
-              <br />
-              <small>Coming soon...</small>
-            </h2>
-          </a>
-          <a
-            href="https://fly-oceans.netlify.app/"
-            target="_blank"
-            rel="noopener"
-            className="navigation-bottom__projects-card"
-          >
-            <img src="https://images.unsplash.com/photo-1592503254549-d83d24a4dfab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8ZWNvbW1lcmNlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60" alt="oceans" />
-            <h2>Fly Oceans</h2>
-          </a>
-          <a
-            href="https://nairobi-carz.vercel.app/"
-            target="_blank"
-            rel="noopener"
-            className="navigation-bottom__projects-card"
-          >
-            <img src="https://images.unsplash.com/photo-1610647752706-3bb12232b3ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fGNhciUyMHJlbnRhbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60" alt="car rental" />
-            <h2>
-              Nairobi-Carz
-            </h2>
-          </a>
         </div>
       </motion.div>
     </motion.div>
